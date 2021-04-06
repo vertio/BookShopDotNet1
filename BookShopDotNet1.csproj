@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Resources\Pages\IndexModel.en.resx" />
     <Folder Include="wwwroot\src\images\" />
   </ItemGroup>
-
 </Project>
